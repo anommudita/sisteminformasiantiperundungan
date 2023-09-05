@@ -125,7 +125,7 @@ ob_start();
                     <tr>
                         <td bgcolor="#ffffff" align="center" valign="top" style="padding: 40px 20px 20px 20px; border-radius: 4px 4px 0px 0px; color: #111111; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 48px; font-weight: 400; letter-spacing: 4px; line-height: 48px;">
                             <h3 style="font-size: 48px; font-weight: 400; margin: 2;">Sistem Informasi Anti Perundungan</h3>
-                            <img src="<?= base_url('/assets/img/logo/logo_siap.png'); ?>" alt="logo_siap" width="125" height="120" style="display: block; border: 0px;" />
+                            <img src="https://magangiduka.com/assets/img/logo/logo_siap.png" alt="logo_siap" width="125" height="120" style="display: block; border: 0px;" />
                         </td>
                     </tr>
                 </table>
