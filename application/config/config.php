@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://bro-developer/sisteminformasiantiperundungan/';
-$config['base_url'] = 'http://192.168.1.250/sisteminformasiantiperundungan/';
+$config['base_url'] = 'https://magangiduka.com/';
 // $config['base_url'] = 'http://192.168.1.250/appspengaduanbully/';
 
 /*
